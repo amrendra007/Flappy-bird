@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+canvas{
+	display: block;
+	
+}
+
+h2{
+	position: absolute;
+	top:5px;
+	left: 10px;
+	color: blue;
+
+}
+
+.update{
+
+	position: absolute;
+	top:0px;
+	left: 0;
+	
+	font-size: 4em;
+	background-image: url("bakg.jpg");
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+div>h1{
+	margin-top: 50px;
+	color:#f44336;
+
+}
+
+div>p{
+	color: white;
+	margin-top: 50px;
+
+}
+
+
